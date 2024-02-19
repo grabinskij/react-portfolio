@@ -1,0 +1,58 @@
+:root{
+    --ff-primary: 'Source Sans Pro', sans-serif;
+    --ff-secondary: 'Source Code Pro', monospace;
+
+    --fw-reg: 300;
+    --fw-semiReg: 400;
+    --fw-semiBold: 600;
+    --fw-bold: 900;
+
+    --blackpure: #000;
+    --clr-light: #fff;
+    --clr-dark: #303030;
+    --clr-accent: #34e3c4;
+    --clr-black: #171718;
+    --clr-black-border: #26292d;
+    --clr-white: #fff;
+    --clr-purple: #5c62ec;
+    --clr-grey: #565656;
+    --clr-light-grey: #dbdbdb;
+
+    --fs-h1: 3rem;
+    --fs-h2: 2.25rem;
+    --fs-h3: 1.25rem;
+    --fs-body: 1rem;
+
+    --bs: 0.25em 0.25em 0.75em rgba(0,0,0,.25),
+    0.125em 0.125em 0.25em rgba(0,0,0,.15);
+
+    /*Nav*/
+    --nav-bg: var(--clr-black);
+    --nav-border: var(--clr-black-border);
+    --nav-text: var(--clr-white);
+
+
+    --project-btn-bg: var(--clr-white);
+    --project-btn: var(--clr-black);
+    /*Projects*/
+    --projects-bg: var(--clr-grey);
+
+    /* Light mode */
+    --page-bg: var( --clr-light);
+    --text-color: var(--clr-dark);
+
+
+    --project-card-bg: var(--clr-light);
+    --project-card-text: var(--clr-dark);
+    --project-card-border-top: var(--clr-light-grey);
+    --box-shadow: 10px 10px 10px 10px rgba(0,0,0,0.5);
+}
+
+@media (min-width: 800px){
+    :root {
+        --fs-h1: 4.5rem;
+        --fs-h2: 3.75rem;
+        --fs-h3: 1.5rem;
+        --fs-body: 1.125rem;
+    }
+}

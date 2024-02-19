@@ -1,0 +1,70 @@
+.my-services{
+    background: linear-gradient( rgba(255, 255, 255, 0.8), rgba(0, 0, 0, 0.5) ), url("../../assets/img/services-bg.png");
+    color: var(--clr-light);
+    text-align: center;
+    position: relative;
+
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.my-services::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,.7);
+    z-index: 2;
+}
+
+.services-btn a{
+    z-index: 3;
+    position: relative;
+}
+
+.section__title--services{
+    color: var(--clr-accent);
+    position: relative;
+    z-index: 3;
+}
+
+.section__title--services::after{
+    content: '';
+    display: block;
+    width: 3em;
+    height: 1px;
+    margin: 0.5em auto 1em;
+    background: var(--clr-light);
+    opacity: 0.45;
+}
+.services{
+    margin-bottom: 3.5em;
+    display: flex;
+}
+
+.service{
+    max-width: 700px;
+    margin: 0 auto;
+    letter-spacing: 0.02em;
+    font-size: var(--fs-h3);
+    z-index: 3;
+}
+
+
+@media (min-width: 800px){
+    .services{
+        max-width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .services p{
+        font-size: 2rem;
+    }
+}
+.contacts{
+    text-align: center;
+}

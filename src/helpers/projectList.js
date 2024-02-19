@@ -26,7 +26,7 @@ const projects = [
         imgBig: project01Big,
         skills: 'React, Redux Toolkit',
         gitHubLink: 'https://github.com/grabinskij/sneakers-store',
-        webLink: 'https://sneakers-store-5789c.web.app',
+        webLink: 'https://sneakers-store-x.vercel.app',
     },
     {
         title: 'WP Landing page',
@@ -34,7 +34,7 @@ const projects = [
         imgBig: project02Big,
         skills: 'HTML, CSS, WordPress, PHP',
         gitHubLink: 'https://github.com/grabinskij/construction-service',
-        webLink: 'https://grabinskij.github.io/construction-service',
+        webLink: 'https://construction-service.vercel.app',
 
     },
     {
@@ -43,7 +43,7 @@ const projects = [
         img: project06,
         imgBig: project06Big,
         gitHubLink: 'https://github.com/grabinskij/todo-app',
-        webLink: 'https://grabinskij.github.io/todo-app',
+        webLink: 'https://awesome-todo-list-app.vercel.app',
 
     },
     {
@@ -52,7 +52,7 @@ const projects = [
         img: project03,
         imgBig: project03Big,
         gitHubLink: 'https://github.com/grabinskij/lawyer-site',
-        webLink: 'https://grabinskij.github.io/lawyer-site',
+        webLink: 'https://lawyer-site-xi.vercel.app',
 
     },
     {
@@ -61,7 +61,7 @@ const projects = [
         imgBig: project04Big,
         skills: 'HTML, SCSS, JQuery',
         gitHubLink: 'https://github.com/grabinskij/dev-school-site',
-        webLink: 'https://dev-school-site.web.app',
+        webLink: 'https://dev-school-site.vercel.app',
 
     },
     {
@@ -70,7 +70,7 @@ const projects = [
         imgBig: project05Big,
         skills: 'HTML, SCSS, JQuery',
         gitHubLink: 'https://github.com/grabinskij/clothing-store',
-        webLink: 'https://clothing-store-ea153.web.app',
+        webLink: 'https://clothing-store-fashion.vercel.app',
     },
 
 

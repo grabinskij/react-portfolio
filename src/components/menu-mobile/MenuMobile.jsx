@@ -16,7 +16,7 @@ const MenuMobile = () => {
 export default MenuMobile;
 
 
-// MenuMobile.js
+// MenuMobile
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import "./style.css";

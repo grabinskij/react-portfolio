@@ -15,6 +15,7 @@
     --clr-black-border: #26292d;
     --clr-white: #fff;
     --clr-purple: #5c62ec;
+    --clr-blue: #007bff;
     --clr-grey: #565656;
     --clr-light-grey: #dbdbdb;
 
@@ -40,6 +41,7 @@
     /* Light mode */
     --page-bg: var( --clr-light);
     --text-color: var(--clr-dark);
+    --link-light: var(--clr-blue);
 
 
     --project-card-bg: var(--clr-light);

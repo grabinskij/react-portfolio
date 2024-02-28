@@ -12,6 +12,12 @@
     text-decoration: none;
 }
 
+.footer__link_container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
 .footer__link{
     font-weight: var(--fw-bold);
     position: relative;

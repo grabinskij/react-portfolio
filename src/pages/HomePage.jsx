@@ -17,6 +17,8 @@ const HomePage = () => {
 
             <Projects/>
 
+            <Footer/>
+
         </div>
     );
 };

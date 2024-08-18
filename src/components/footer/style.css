@@ -28,9 +28,6 @@
     opacity: .7;
 }
 
-/*.footer__link:hover{*/
-/*    text-decoration: underline;*/
-/*}*/
 .footer__link:hover::before{
     content: '';
     position: absolute;

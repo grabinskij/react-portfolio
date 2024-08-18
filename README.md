@@ -1,3 +1,73 @@
+# 🚀 React Portfolio
+
+This repository contains the previous version of my portfolio that showcases my skills, projects, and additional information about myself. 
+
+<br>
+
+## ⭐ Features
+
+- **Dark Mode Toggle**: Switch between light and dark themes to enhance readability and comfort.
+- **Project Showcases**: View detailed information about various projects I’ve worked on.
+- **Additional Information**: Access additional details and insights about my work and experiences.
+
+<br>
+
+## 🛠️ Tech Stack
+
+- **React**: JavaScript library for building user interfaces.
+- **CSS Modules**: For modular and scoped styling.
+- **JavaScript ES6+**: Modern JavaScript features and syntax.
+- **React Router**: For handling navigation within the application.
+
+<br>
+
+## 📝 License
+
+This project is open-source and available under the MIT License.
+
+<br>
+
+## 🔥 How to Run Locally
+
+To view the project on your local machine:
+
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/grabinskij/react-portfolio.git
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd react-portfolio
+
+3. **Install dependencies**:
+   ```bash
+   npm install
+
+4. **Run the development server**:
+   ```bash
+   npm start
+
+<br>
+
+## 🤝 Let's Connect
+
+Feel free to reach out! I'm always open to feedback and opportunities to collaborate.
+- **LinkedIn**: [https://www.linkedin.com/in/bohdan-hrabynskyi](https://www.linkedin.com/in/bohdan-hrabynskyi)
+- **GitHub**: [https://github.com/grabinskij](https://github.com/grabinskij)
+- **Email**: [hrabynskyi.dev@gmail.com](mailto:hrabynskyi.dev@gmail.com)
+
+<br>
+
+## React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
